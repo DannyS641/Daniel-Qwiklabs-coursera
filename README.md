@@ -1,2 +1,2 @@
 # Daniel-Qwiklabs-coursera
-Qwik labs test
+I am editing the README file. Adidng some more details about the project description
